@@ -1,0 +1,39 @@
+main{
+    padding: 10px;
+}
+#contenedor {
+display: flex;
+flex-direction: column;
+background-color: #D5D8DC;
+width: 350px;
+border-radius: 12px;
+border-color: #060606;
+border-style: solid;
+margin-top: 10px;
+padding-right: 16px;
+margin-left: 20%;
+
+}
+main ol ul{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+div ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#MontoPagar{
+    display: flex;
+    flex-flow: column;
+    padding: 16px;
+    margin: 10px;
+}
+#MontoPagar div{
+    margin-top: 10px;
+
+}
+
+
+
